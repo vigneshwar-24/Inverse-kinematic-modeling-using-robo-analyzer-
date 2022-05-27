@@ -46,32 +46,30 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### SIMULATION 
  
- #### RPR ROBOT:
-![inv rpr](https://user-images.githubusercontent.com/74660507/170623671-ceac517c-d739-4f6d-9bbd-d655d8324e1d.jpeg)
+ #### RRP ROBOT:
+<img width="603" alt="rrp 1" src="https://user-images.githubusercontent.com/77089276/170744649-a7497473-1de5-448e-a3b1-a200b26b437e.PNG">
+<img width="834" alt="rrp2" src="https://user-images.githubusercontent.com/77089276/170744683-383c8fb1-81b5-46cd-8209-34496296d9f4.PNG">
 
-![dh rpr](https://user-images.githubusercontent.com/74660507/170623767-70f827a9-8de9-422e-9003-510f57f3e635.jpeg)
 
   #### 3R ROBOT:
-![3r inv](https://user-images.githubusercontent.com/74660507/170623818-7cb4dee3-917f-4366-96ed-a9dbcd9865f8.png)
+  
+<img width="594" alt="3r1" src="https://user-images.githubusercontent.com/77089276/170743765-5d65684a-e0b6-4aa7-a793-3119dc94f5c1.PNG">
 
-![3r dh](https://user-images.githubusercontent.com/74660507/170623849-7cb26533-3d12-4ebb-9faa-c8a1b162b0cf.png)
+<img width="842" alt="3r2" src="https://user-images.githubusercontent.com/77089276/170743788-7154dce8-e650-4197-8ee5-4d7a1a8001cd.PNG">
 
 
  ### PLOT 
  
-  #### RPR ROBOT:
-  
-![image](https://user-images.githubusercontent.com/74660507/170624053-ab1f4eb0-5579-451e-bd19-dacd4c098629.png)
+  #### RRP ROBOT:
+  <img width="717" alt="rrp3" src="https://user-images.githubusercontent.com/77089276/170744571-2b071175-35bc-4069-b8e4-eb270bbf53c7.PNG">
+ <img width="214" alt="rrp6" src="https://user-images.githubusercontent.com/77089276/170746800-db66ba09-58bc-4118-9d5d-7bed99d33fec.PNG">
 
-![rpr](https://user-images.githubusercontent.com/74660507/170624071-a8a118f1-3032-40f4-9014-2faf3055d9ee.jpg)
-
-  #### 3R ROBOT:
-  
-![image](https://user-images.githubusercontent.com/74660507/170624191-a7f570a4-91de-4b50-b5ce-70e6441efae6.png)
-
-![3r graph](https://user-images.githubusercontent.com/74660507/170624205-059291ef-9ff5-4610-af0e-c1cc99181782.jpg)
  
+  #### 3R ROBOT:
+  <img width="714" alt="3r3" src="https://user-images.githubusercontent.com/77089276/170747341-ba9f158c-93bf-4d69-8f25-0ad0abcc24ff.PNG">
+  <img width="215" alt="3r6" src="https://user-images.githubusercontent.com/77089276/170747394-4b097bac-94ac-402e-80d7-75e1b39c65fd.PNG">
 
-### RESULTS :  
+
+### RESULTS :    
 
 Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given  input end effector position is plotted.
